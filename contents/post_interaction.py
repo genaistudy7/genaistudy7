@@ -237,7 +237,7 @@ The research title presented to you before the study, "User perceptions of gener
 
 The chatbot you interacted with during the study was a simulated program created specifically for this experiment. Please note that all of the chatbot's responses were intentionally false and inaccurate.
 
-You are free to withdraw from this study at any time. If you choose to withdraw, your data will be permanently deleted. If you do not wish for your responses to be used in the study, you may decline to submit your response or contact us at jwp14812@snu.ac.kr. However, please be aware that in such cases, payment will not be provided
+You are free to withdraw from this study at any time. If you choose to withdraw, your data will be permanently deleted. If you do not wish for your responses to be used in the study, you may decline to submit your response or contact us at jwp14812@snu.ac.kr. However, please be aware that in such cases, payment will not be provided.
 
 Once again, thank you for your participation. 
     """)
